@@ -50,6 +50,7 @@
 - [RAnki](https://github.com/crazy-electron/ranki) - Anki reviewer for Kindle. 📖 Uses the real Anki backend. Sync, review, bury cards.
 - [KPomo](https://github.com/crizmo/KPomo) - Pomodoro timer for Kindles
 - [Kreate](https://github.com/Foskya/Kreate) - Unique drawing software for the Kindle
+- [Kindle Side Card](https://github.com/perduewu-ops/kindle-side-card) - Local-first KUAL side display for dashboards and desktop status
 
 ### Games
 
