@@ -68,6 +68,7 @@
 - [kTerm](https://github.com/bfabiszewski/kterm) - An e-ink optimised terminal for Kindles
 - [Alpine](https://github.com/schuhumi/alpine_kindle) - Run Alpine Linux on the Kindle
 - [UsbNetLite](https://github.com/notmarek/kindle-usbnetlite) - SSH Into your Kindle
+- [tailscale_kual](https://github.com/mitanshu7/tailscale_kual) - Use Tailscale VPN to access your kindle from anywhere.
 - [Illusion](https://github.com/penguins184/Penguins-Kindle-Wiki/blob/main/Illusion-Guide.md) - A scriptlet which allows you to create HTML, CSS, JS apps for Kindle
 - [ScreenControl](https://kindlemodshelf.me/screencontrol.html) - Mirrors your Kindle's screen online, allowing input
 
