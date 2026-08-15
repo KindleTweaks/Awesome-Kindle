@@ -62,6 +62,7 @@
 - [KindleKraft](https://github.com/penguins184/KindleKraft) - Soft-float Kindle 1.8 Minecraft server
 - [KindleCraft](https://github.com/gingrspacecadet/bareiron) - Hard-float 1.21.8 Minecraft (KindleCraft.sh and cross binary to `/mnt/us/documents/KindleCraft`)
 - [KShips](https://github.com/LOT-Projects/KShips) - BattleShip port to the Kindle
+- [kourtpiece](https://github.com/yatharthtaneja/kourtpiece) - Court Piece trick-taking card game with pixel-art cards, played against bots
 
 ### Development
 
