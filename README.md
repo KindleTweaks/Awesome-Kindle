@@ -43,7 +43,6 @@
 - [Disable ADs](https://scriptlets.notmarek.com/scriptlets/disable_ads.sh) - Disable ads on ad-enabled Kindles
 - [HotfixUpdater](https://github.com/KindleTweaks/HotfixUpdater) - Update Universal hotfix instantly.
 - [KindleHub Device Pack](https://github.com/arancool3000/kindlehub-device-pack) - Fullscreen stock browser on a jailbroken Kindle by patching the window manager's chrome reservation, plus power-button gestures, cover-only sleep and 229 redrawn UI icons. Developed on a Paperwhite 11 (5.19.2); other models are checked structurally before anything is written. MIT, needs KUAL and KOReader, every change backed up and reversible.
-unused
 
 ### Productivity
 
