@@ -79,6 +79,7 @@
 ### Miscellaneous
 
 - [KPM](https://github.com/Gingrspacecadet/KPM) - A Kindle Package Manager. Download tweaks directly on-device!
+- [Brew Reader](https://github.com/kisch-Industries/Brew-Reader) - Unofficial reader for the daily Morning Brew newsletter, paged for e-ink
 
 ## Related Lists
 
