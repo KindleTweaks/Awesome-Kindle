@@ -48,7 +48,7 @@
 - [Textadept](https://github.com/kbarni/textadept-kindle) - Desktop-grade text editor with bluetooth keyboard capabilities
 - [KAnki](https://github.com/crizmo/KAnki) - Anki based flashcards on Kindles
 - [RAnki](https://github.com/crazy-electron/ranki) - Anki reviewer for Kindle. 📖 Uses the real Anki backend. Sync, review, bury cards.
-- [KPomo](https://github.com/crizmo/KPomo) - Pomodoro timer for Kindles
+- [Kpomo-fancy](https://github.com/DobricLilujun/KPomo) - Split-flap flip-clock Pomodoro timer for Kindles (polished KPomo fork): fullscreen, portrait & landscape, e-ink-friendly design
 - [Kreate](https://github.com/Foskya/Kreate) - Unique drawing software for the Kindle
 
 ### Games
