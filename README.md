@@ -79,6 +79,7 @@
 ### Miscellaneous
 
 - [KPM](https://github.com/Gingrspacecadet/KPM) - A Kindle Package Manager. Download tweaks directly on-device!
+- [KindScreenSaver](https://github.com/vadimostanin/KindScreenSaver/) - Screensaver with user custom images by lightweight script
 
 ## Related Lists
 
